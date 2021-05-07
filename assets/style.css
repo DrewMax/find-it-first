@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+li a {
+    text-decoration: none;
+    
+}
+.primary-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 6rem;
+}
+.font-1 {
+    font-family: "Zen Dots", cursive;
+}
+.font-1 p {
+    font-size: 2rem;
+}
+.secondary-heading {
+    font-size: 4rem;
+    color: rgb(194, 11, 11);
+    text-align: center;
+    border-radius: 15px;
+    border: 5px solid wheat;
+    
+}
+
+.jumbotron {
+    border-bottom: 3px solid grey;
+    background-image: url(./images/matrix.jpg);
+    background-size: cover;
+
+}
+.secondary-description {
+    color: orange;
+    font-family: "Zen Dots", cursive;
+}
+.products {
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    font-family: "Zen Dots", cursive;
+    color: grey;
+}
+.tower-card {
+    background-color: wheat;
+    border-radius: 14px;
+}
+
+.getBtn {
+    background-color: rgb(28, 212, 28);
+    font-family: "Zen Dots", cursive;
+    border: 3px solid rgb(14, 122, 14);
+    color: black;
+    font-size: bold;
+}
+.closeBtn {
+    background-color: rgb(248, 7, 7);
+    font-family: "Zen Dots", cursive;
+    border: 3px solid rgb(109, 8, 8);
+}
+nav ul li a {
+    color: black;
+}
+
+
