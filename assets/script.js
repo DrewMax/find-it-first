@@ -30,4 +30,3 @@ var closeModal = function() {
     $("#task-form-modal").modal("hide");
 }
 
-

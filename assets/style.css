@@ -65,4 +65,26 @@ nav ul li a {
     color: black;
 }
 
+.search-form {
+    font-size: 1rem;
+}
+.search-button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid rgb(14, 122, 14);
+    border-left: none;
+    cursor: pointer;
+    background-color: rgb(28, 212, 28);
+}
 
+form.search-form input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: wheat;
+    font-family: "Zen Dots", cursive;
+}
