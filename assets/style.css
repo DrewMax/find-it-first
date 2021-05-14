@@ -36,11 +36,11 @@ li a {
 .secondary-description {
     color: orange;
     font-family: "Zen Dots", cursive;
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
 }
 .products {
-    /* display: flex;
-    justify-content: space-around;
-    align-items: center; */
     font-family: "Zen Dots", cursive;
     color: grey;
 }
